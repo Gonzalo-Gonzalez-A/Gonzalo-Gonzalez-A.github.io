@@ -1,3 +1,6 @@
-h4 {
-    text-align: center;
+.presentacion {
+  background-image: url("../img/fondo/imgen-fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
 }
